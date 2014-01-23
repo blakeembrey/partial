@@ -1,0 +1,32 @@
+{
+  "name": "partial",
+  "version": "0.0.0",
+  "description": "A functional utility for doing partial application.",
+  "main": "partial.js",
+  "scripts": {
+    "test": "istanbul cover _mocha -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/blakeembrey/partial.git"
+  },
+  "keywords": [
+    "partial",
+    "application",
+    "proxy"
+  ],
+  "author": "Blake Embrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/partial/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/partial",
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "istanbul": "~0.2.4"
+  },
+  "dependencies": {
+    "variadic": "0.0.2",
+    "arity": "git://github.com/blakeembrey/arity#v0.0.1"
+  }
+}
