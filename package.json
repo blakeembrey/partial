@@ -1,6 +1,6 @@
 {
   "name": "util-partial",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A functional utility for doing partial application.",
   "main": "partial.js",
   "scripts": {
