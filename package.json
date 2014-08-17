@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/blakeembrey/partial",
   "devDependencies": {
-    "mocha": "~1.17.0",
-    "istanbul": "~0.2.4"
+    "istanbul": "^0.3.0",
+    "mocha": "^1.21.4"
   },
   "dependencies": {
-    "variadic": "0.0.2",
-    "arity": "git://github.com/blakeembrey/arity#v0.0.1"
+    "variadic": "^1.0.0",
+    "util-arity": "^1.0.0"
   }
 }

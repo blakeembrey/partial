@@ -1,4 +1,4 @@
-var arity    = require('arity');
+var arity    = require('util-arity');
 var variadic = require('variadic');
 
 /**
