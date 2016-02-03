@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A functional utility for doing partial application.",
   "main": "partial.js",
+  "typings": "partial.d.ts",
+  "files": [
+    "partial.js",
+    "partial.d.ts"
+  ],
   "scripts": {
     "test": "istanbul cover _mocha -- -R spec"
   },

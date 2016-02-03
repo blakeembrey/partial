@@ -5,11 +5,11 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Gittip][gittip-image]][gittip-url]
 
-Partially apply a function by pre-filling a number of its arguments and without changing its `this` value.
+Partially apply a function by pre-filling some of its arguments and without changing the `this` context.
 
 ## Installation
 
-```
+```sh
 npm install util-partial --save
 ```
 
@@ -28,6 +28,10 @@ add5(10); //=> 15
 add5(20); //=> 25
 add5(30); //=> 35
 ```
+
+## Typings
+
+Includes a [TypeScript type definition](partial.d.ts).
 
 ## License
 
