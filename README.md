@@ -1,11 +1,9 @@
 # Partial
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/partial.svg)](https://greenkeeper.io/)
-
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][coveralls-image]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/partial.svg)](https://greenkeeper.io/)
 
 Partially apply a function by pre-filling some of its arguments and without changing the `this` context.
 
